@@ -1,11 +1,11 @@
 
-## **📖 Project Overview**
+## **Project Overview**
 
 This repository contains the findings of a unique AI benchmark conducted on February 27, 2026\.
 
 Instead of testing logic puzzles or coding abilities, this project evaluates the **"Physical World Perception" (Embodied AI intuition)** of mainstream Large Language Models (Fast/Instant Tier). By analyzing a sequence of seemingly meaningless "gibberish" typed by a human, the test reveals which AIs simply count letters, which ones get stuck on wrong assumptions, and which ones can successfully reverse-engineer the user's physical device, hand posture, and even muscle memory derived from rhythm games.
 
-## **🧪 The Test Cases (Raw Prompts)**
+## **The Test Cases (Raw Prompts)**
 
 The benchmark consists of two rounds of inputs, executed on a smartphone virtual keyboard.
 
