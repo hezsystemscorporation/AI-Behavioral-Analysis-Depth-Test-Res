@@ -11,11 +11,11 @@ The benchmark consists of two rounds of inputs, executed on a smartphone virtual
 
 **Round 1: The "Alternating Tapping" Phase**
 
-**Prompt:** 这是我随机输入的一串字母，总结其中的规律： vdjbdhdhdhgdhdgdhnehdbdhenxhbdgfkwgduwkudhbwbjxghwkxgebxbuebxhnwvxywbhxyhwgxgwhxhjebxywnxhenxfunwkckwnvckwixhskcjhannxuwnvyxksgcuwkbxhwnxgejzkgbfhuwkgdhdjanvdgivehdhejbdbsjhfhdnkebehzhbrgxysjxjskwnhxhr
+**Prompt:** 这是我随机输入的一串字母，总结其中的规律： ```vdjbdhdhdhgdhdgdhnehdbdhenxhbdgfkwgduwkudhbwbjxghwkxgebxbuebxhnwvxywbhxyhwgxgwhxhjebxywnxhenxfunwkckwnvckwixhskcjhannxuwnvyxksgcuwkbxhwnxgejzkgbfhuwkgdhdjanvdgivehdhejbdbsjhfhdnkebehzhbrgxysjxjskwnhxhr```
 
 **Round 2: The "Thumb Fan-Sweep" Phase**
 
-**Prompt:** 对比上一串，分析这一串： bxhebxgbsgxjwgxhwhxghedhhebxhnshdhchhehchsnchejhdhdhejsbchejbxhejzhrhwujxhwjbzjwmchwljchwkxnejakwjhxjwjfhqkhxjqkdruksbchwjhdbdkajhfjwhchnwhxjebchjehzhejxyejwbchjwhchwjxhejkqkncnwoqcukwokcjwojxjsoebbcbrjdcbbdr dhjebdhenx
+**Prompt:** 对比上一串，分析这一串： ```bxhebxgbsgxjwgxhwhxghedhhebxhnshdhchhehchsnchejhdhdhejsbchejbxhejzhrhwujxhwjbzjwmchwljchwkxnejakwjhxjwjfhqkhxjqkdruksbchwjhdbdkajhfjwhchnwhxjebchjehzhejxyejwbchjwhchwjxhejkqkncnwoqcukwokcjwojxjsoebbcbrjdcbbdr dhjebdhenx```
 
 ## **The Ground Truth**
 
